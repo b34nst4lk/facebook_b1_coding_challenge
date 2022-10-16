@@ -69,7 +69,7 @@ on the original binary number, and we get
 ^^^
 ```
 
-Sixth, the result is then written into the `loutput.txt` file.
+Sixth, the result is then written into the `output.txt` file.
 
 ## Running the script
 To run the script, do
